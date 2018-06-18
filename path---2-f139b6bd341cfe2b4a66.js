@@ -1,0 +1,2 @@
+webpackJsonp([0x8f0ce58d3892],{348:function(e,n){e.exports={data:{markdownRemark:{html:"<!-- > Inscrutable icons litter the face of the devices even though the research \n> community has long demonstrated that people cannot remember the meaning of\n> more than a small number of icons […] Who can remember what each icon\n> means? Not me.\n> <cite>Don Norman</cite> -->\n<h1>👨🏼</h1>\n<p>Mr. Frédéric Charain</p>"}},pathContext:{absolutePath:"/Users/MDP/OpenClassrooms/Projet 2 v2/presentation/src/pages/2.md"}}}});
+//# sourceMappingURL=path---2-f139b6bd341cfe2b4a66.js.map
