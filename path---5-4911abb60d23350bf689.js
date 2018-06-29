@@ -1,2 +1,2 @@
-webpackJsonp([81823991089174],{353:function(o,s){o.exports={data:{markdownRemark:{html:'<h1>📜 🖋</h1>\n<p><strong>Proposition Commerciale</strong><br>\n<span style="color:red;">+</span><br>\n<strong>Devis</strong></p>'}},pathContext:{absolutePath:"/Users/MDP/OpenClassrooms/Projet 2 v2/presentation/src/pages/5.md"}}}});
+webpackJsonp([81823991089174],{357:function(o,s){o.exports={data:{markdownRemark:{html:'<h1>📜 🖋</h1>\n<p><strong>Proposition Commerciale</strong><br>\n<span style="color:red;">+</span><br>\n<strong>Devis</strong></p>'}},pathContext:{absolutePath:"/Users/MDP/OpenClassrooms/Projet 2 v2/presentation/src/pages/5.md"}}}});
 //# sourceMappingURL=path---5-4911abb60d23350bf689.js.map

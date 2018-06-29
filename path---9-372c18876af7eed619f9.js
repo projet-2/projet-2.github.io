@@ -1,0 +1,2 @@
+webpackJsonp([0xc22571bd08b4],{362:function(s,o){s.exports={data:{markdownRemark:{html:'<h1>👩🏼‍🎨 <span style="color:red;">+</span> 🧛‍♂️</h1>\n<p><strong>Graphiste</strong> <span style="color:red;">+</span> <strong>Développeur</strong></p>'}},pathContext:{absolutePath:"/Users/MDP/OpenClassrooms/Projet 2 v2/presentation/src/pages/9.md"}}}});
+//# sourceMappingURL=path---9-372c18876af7eed619f9.js.map
